@@ -99,6 +99,7 @@ React • Next.js • TypeScript • PHP • MySQL • Docker • MobX
 # Packages
 ## 📦 easy-pagination
 
+
 Highly customizable animated pagination library.
 
 Features:
