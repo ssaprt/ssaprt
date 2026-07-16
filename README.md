@@ -1,16 +1,162 @@
-## Hi there 👋
+# Hi 👋 I'm Denis Ukhan
 
-<!--
-**ssaprt/ssaprt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React / Next.js Full Stack Developer
 
-Here are some ideas to get you started:
+Building scalable web applications, reusable libraries and modern UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About me
+
+- 💼 Commercial experience: 3+ years
+- ⚛️ React / Next.js Developer
+- 🧩 Full Stack (Frontend + PHP)
+- 📦 npm package author
+- 🐳 Docker & CI/CD enthusiast
+- 🌍 Open to remote work worldwide
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS
+- TailwindCSS
+- Ant Design
+- HeroUI
+- Three.js
+- React Three Fiber
+
+### State Management
+
+- MobX
+- Redux Toolkit
+- RTK Query
+- Context API
+
+### Backend
+
+- PHP
+- MySQL
+
+### DevOps
+
+- Docker
+- Docker Compose
+- Nginx
+- GitHub Actions
+- Vercel
+- Linux
+
+### Build Tools
+
+- Vite
+- Webpack
+- Turbopack
+
+---
+
+# Featured Projects
+
+## 🍷 Winery Platform
+
+Large commercial Full Stack project.
+
+Features:
+
+- Next.js storefront
+- SEO optimization
+- Admin Dashboard
+- Dynamic content builder
+- User roles & permissions
+- Review system
+- Media optimization
+- Docker infrastructure
+- CI/CD
+- 3D wine bottle configurator
+- Delivery calculators
+- Advanced filtering
+
+Stack:
+
+React • Next.js • TypeScript • PHP • MySQL • Docker • MobX
+
+---
+
+## 📦 easy-pagination
+
+Highly customizable animated pagination library.
+
+Features:
+
+- Smooth animations
+- URL synchronization
+- localStorage support
+- Multiple pagination instances
+- Responsive
+- Highly customizable API
+- 10+ themes
+
+---
+
+## 🖼 use-image-preview
+
+Lightweight React hook.
+
+Features:
+
+- Image preview
+- Object URL management
+- Automatic memory cleanup
+
+---
+
+## ⏳ alt-suspense
+
+Flexible readiness manager for React applications.
+
+Supports:
+
+- Component readiness
+- Data readiness
+- Media readiness
+- Animation readiness
+- Smart lifecycle management
+
+---
+
+# GitHub
+
+https://github.com/ssaprt
+
+---
+
+## 📫 Contact
+
+Telegram:
+@itauction
+
+Email:
+fasingtondenzel@gmail.com
+
+Location:
+Batumi, Georgia
+
+Remote ✔
+Relocation ✔
+
+---
+
+## Languages
+
+🇷🇺 Russian — Native
+
+🇺🇦 Ukrainian — Native
+
+🇬🇧 English — A1 (currently learning)
