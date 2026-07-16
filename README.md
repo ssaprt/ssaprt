@@ -21,8 +21,8 @@ Building scalable web applications, reusable libraries and modern UI.
 
 ### Frontend
 
-- React
-- Next.js
+- React (CSR / SPA)
+- Next.js (ISR / SSR)
 - TypeScript
 - JavaScript
 - HTML5
@@ -32,6 +32,13 @@ Building scalable web applications, reusable libraries and modern UI.
 - HeroUI
 - Three.js
 - React Three Fiber
+- SVG
+- jQuery
+- Module CSS
+- CSS in JS
+- ESLint
+- Prettier
+ 
 
 ### State Management
 
@@ -131,12 +138,6 @@ Supports:
 
 ---
 
-# GitHub
-
-https://github.com/ssaprt
-
----
-
 ## 📫 Contact
 
 Telegram:
@@ -156,7 +157,5 @@ Relocation ✔
 ## Languages
 
 🇷🇺 Russian — Native
-
 🇺🇦 Ukrainian — Native
-
 🇬🇧 English — A1 (currently learning)
