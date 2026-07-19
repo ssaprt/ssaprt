@@ -47,6 +47,12 @@ Building scalable web applications, reusable libraries and modern UI.
 - RTK Query
 - Context API
 
+### LLM
+- Cursor
+- Codex
+- Claude
+- LLM poorly compatible for code. I use it for clarifications (GPT, DeepSeek)
+
 ### Backend
 
 - PHP
