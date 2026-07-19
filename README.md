@@ -6,18 +6,18 @@ Building scalable web applications, reusable libraries and modern UI.
 
 ---
 
-## 🚀 About me
+## About me
 
-- 💼 Commercial experience: 3+ years
-- ⚛️ React / Next.js Developer
-- 🧩 Full Stack (Frontend + PHP)
-- 📦 npm package author
-- 🐳 Docker & CI/CD enthusiast
-- 🌍 Open to remote work worldwide
+- Commercial experience: 3+ years
+- React / Next.js Developer
+- Full Stack (Frontend + PHP)
+- npm package author
+- Docker & CI/CD enthusiast
+- Open to remote work worldwide
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
