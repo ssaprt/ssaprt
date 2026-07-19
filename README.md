@@ -6,18 +6,18 @@ Building scalable web applications, reusable libraries and modern UI.
 
 ---
 
-## About me
+## 🚀 About me
 
-- Commercial experience: 3+ years
-- React / Next.js Developer
-- Full Stack (Frontend + PHP)
-- npm package author
-- Docker & CI/CD enthusiast
-- Open to remote work worldwide
+- 💼 Commercial experience: 3+ years
+- ⚛️ React / Next.js Developer
+- 🧩 Full Stack (Frontend + PHP)
+- 📦 npm package author
+- 🐳 Docker & CI/CD enthusiast
+- 🌍 Open to remote work worldwide
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
@@ -46,12 +46,6 @@ Building scalable web applications, reusable libraries and modern UI.
 - Redux Toolkit
 - RTK Query
 - Context API
-
-### LLM
-- Cursor
-- Codex
-- Claude
-- LLM poorly compatible for code. I use it for clarifications (GPT, DeepSeek)
 
 ### Backend
 
@@ -129,6 +123,26 @@ Features:
 - Image preview
 - Object URL management
 - Automatic memory cleanup
+
+
+## 📜 Scroll-to-fitire
+A customizable React scrollbar component with vertical and horizontal scrolling, draggable thumbs, automatic size calculation, mobile fallback, native scrollbar hiding, and built-in themes.
+
+Features:
+* Vertical and horizontal scrollbars
+* Automatic thumb sizing
+* Drag-to-scroll support
+* Clickable scrollbar track
+* Support for regular elements and page scrolling
+* Automatic target detection
+* Automatic content and container observation
+* Native scrollbar hiding
+* Native scrolling fallback on mobile devices
+* Overlay and reserved-space positioning
+* Built-in theme presets
+* Fully customizable scrollbar and thumb styles
+* TypeScript support
+* React and Next.js compatible
 
 ---
 
