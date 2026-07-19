@@ -17,7 +17,7 @@ Building scalable web applications, reusable libraries and modern UI.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -47,7 +47,7 @@ Building scalable web applications, reusable libraries and modern UI.
 - RTK Query
 - Context API
 
-# ::M
+# LLM
 - Cursor
 - Codex & GPT
 - Claude
