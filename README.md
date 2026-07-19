@@ -6,14 +6,14 @@ Building scalable web applications, reusable libraries and modern UI.
 
 ---
 
-## 🚀 About me
+## About me
 
-- 💼 Commercial experience: 3+ years
-- ⚛️ React / Next.js Developer
-- 🧩 Full Stack (Frontend + PHP)
-- 📦 npm package author
-- 🐳 Docker & CI/CD enthusiast
-- 🌍 Open to remote work worldwide
+- Commercial experience: 3+ years
+- React / Next.js Developer
+- Full Stack (Frontend + PHP)
+- npm package author
+- Docker & CI/CD enthusiast
+- Open to remote work worldwide
 
 ---
 
@@ -46,6 +46,11 @@ Building scalable web applications, reusable libraries and modern UI.
 - Redux Toolkit
 - RTK Query
 - Context API
+
+# ::M
+- Cursor
+- Codex & GPT
+- Claude
 
 ### Backend
 
@@ -96,8 +101,8 @@ React • Next.js • TypeScript • PHP • MySQL • Docker • MobX
 
 ---
 
-# Packages
-## 📦 easy-pagination
+# Packages library
+## easy-pagination
 
 
 Highly customizable animated pagination library.
